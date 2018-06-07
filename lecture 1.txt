@@ -1,0 +1,9 @@
+
+basic git commands
+1. git init:
+2. git add(file name)    (if there is no folder name: git add.)
+3. git clone (path)
+4. git commit-m"comments"
+5. git push:
+
+
